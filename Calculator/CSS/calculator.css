@@ -1,0 +1,79 @@
+.intro {
+  font-size: 20px;
+  right: -500px;
+  position: relative;
+}
+
+.color_button.button {
+  background-color: brown;
+}
+
+body {
+  background-color: #996633;
+}
+
+body .container {
+  background: url("https://s-media-cache-ak0.pinimg.com/736x/a1/92/17/a19217cf19b94ba46e6aadc28140279c.jpg");
+  position: relative;
+  padding-right: 4vw;
+  padding-left: 4vw;
+  width: 30vw;
+  box-shadow: 5px 5px 5px 5px black;
+  border-radius: 20px;
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+
+.container {
+  width: 40%;
+}
+
+.buttonStyle {
+  background-color: #242424;
+  border-radius: 7px;
+  color: white;
+  position: relative;
+  left: -2vw;
+  margin: 1vw;
+  width: 5vw;
+  font-size: 1em;
+  border-color: black;
+  height: 45px;
+}
+
+.output {
+  padding: 4px;
+  width: 22vw;
+  position: relative;
+  right: 3;
+  background-color: black;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  font-size: 30px;
+  border-color: grey;
+  box-shadow: 2px 2px 2px black;
+}
+
+.plus_style {
+  background-color: #242424;
+  border-radius: 7px;
+  color: white;
+  position: relative;
+  height: 130px;
+  padding: 4px;
+  left: -2vw;
+  margin: 1vw;
+  width: 5vw;
+  border-color: black;
+  font-size: 1em;
+}
+
+.lastRow {
+  position: relative;
+  top: -80px;
+  height: 45px;
+  left: -2vw;
+  margin: 1vw;
+  width: 5vw;
+}
